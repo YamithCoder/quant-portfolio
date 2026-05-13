@@ -225,3 +225,6 @@ data/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# Study notes — not part of portfolio
+notas/

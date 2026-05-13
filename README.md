@@ -58,7 +58,7 @@ Algorithmic trading strategy backtesting with ML signals
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/yamithpenuela](https://linkedin.com/in/yamithpenuela)
+- LinkedIn: [linkedin.com/in/yamith-peñuela](https://www.linkedin.com/in/yamith-pe%C3%B1uela-1711153a6)
 - GitHub: [github.com/YamithCoder](https://github.com/YamithCoder)
 - Email: penuelayamith@gmail.com
 - Location: Bogotá, Colombia
